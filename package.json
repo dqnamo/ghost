@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-ghost-plugin",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Ghost lets you invoke AI inline. Keep your AI conversations as files.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {

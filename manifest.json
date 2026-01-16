@@ -1,9 +1,9 @@
 {
-	"id": "inline-ai",
-	"name": "Inline AI",
+	"id": "ghost",
+	"name": "Ghost",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Inline AI is a plugin for Obsidian that allows you to generate text using AI models.",
+	"description": "Ghost lets you invoke AI inline. Keep your AI conversations as files.",
 	"author": "dqnamo",
 	"authorUrl": "https://github.com/dqnamo",
 	"isDesktopOnly": false
