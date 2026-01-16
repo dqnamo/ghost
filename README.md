@@ -53,4 +53,4 @@ Go to **Settings > Ghost** to configure:
 
 ## License
 
-0-BSD
+MIT
