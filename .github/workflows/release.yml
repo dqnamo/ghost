@@ -9,6 +9,9 @@ on:
 env:
   PLUGIN_NAME: obsidian-ghost-plugin # As defined in package.json (or folder name)
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
